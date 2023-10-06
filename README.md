@@ -27,6 +27,14 @@ https://greenvalleyintl.com/LiDAR360/
 
 https://www.youtube.com/watch?v=jNP5j6nCS4g
 
+## Relevant readings
+
+Raumonen, P.; Kaasalainen, M.; Åkerblom, M.; Kaasalainen, S.; Kaartinen, H.; Vastaranta, M.; Holopainen, M.; Disney, M.; Lewis, P. Fast Automatic Precision Tree Models from Terrestrial Laser Scanner Data. Remote Sens. 2013, 5, 491-520. https://doi.org/10.3390/rs5020491
+
+Krisanski, S.; Taskhiri, M.S.; Gonzalez Aracil, S.; Herries, D.; Muneri, A.; Gurung, M.B.; Montgomery, J.; Turner, P. Forest Structural Complexity Tool—An Open Source, Fully-Automated Tool for Measuring Forest Point Clouds. Remote Sens. 2021, 13, 4677. https://doi.org/10.3390/rs13224677
+
+Calders, K.;  Newnham, G.; Burt, A.; Murphy, S.; Raumonen P.; Herold, M.; Culvenor, D.;  Avitabile, V.;  Disney, M;  Armston, J.; Kaasalainen; M. (2014) Nondestructive estimates of above-ground biomass using terrestrial laser scanning. Methods Eco. Evol. Volume 6, Issue2
+Pages 198-208. https://doi.org/10.1111/2041-210X.12301
    
 
 
