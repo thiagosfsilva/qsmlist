@@ -20,8 +20,11 @@ https://github.com/umr-amap/aRchi#archi
 
 https://github.com/SKrisanski/FSCT#forest-structural-complexity-tool ( Also see: https://github.com/philwilkes/TLS2trees#tls-point-cloud-semantic-classification-and-individual-tree-segmentation )
 
+5. 3DFin
 
-5. Lidar360 (Commercial software)
+https://github.com/3DFin/3DFin
+
+6. Lidar360 (Commercial software)
 
 https://greenvalleyintl.com/LiDAR360/
 
